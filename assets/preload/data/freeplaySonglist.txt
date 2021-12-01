@@ -1,0 +1,3 @@
+Kepler:kepler:7
+Trappist:kepler:7
+WASP-107B:kepler-stage-3:7

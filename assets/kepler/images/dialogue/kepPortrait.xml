@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kepPortrait.png">
+<SubTexture name="kepPortrait kepappears0000" x="0" y="0" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+<SubTexture name="kepPortrait kepappears0001" x="2564" y="0" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+<SubTexture name="kepPortrait kepappears0002" x="5128" y="0" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+<SubTexture name="kepPortrait kepappears0003" x="7692" y="0" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+
+<SubTexture name="kepPortrait bfappears0000" x="801" y="1404" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+<SubTexture name="kepPortrait bfappears0001" x="3365" y="1404" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+<SubTexture name="kepPortrait bfappears0002" x="5929" y="1404" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+<SubTexture name="kepPortrait bfappears0003" x="825" y="2808" width="2564" height="1404" frameX="0" frameY="0" frameWidth="2564" frameHeight="1404" />
+
+<SubTexture name="kepPortrait bfportrait0000" x="0" y="1404" width="801" height="495" frameX="0" frameY="0" frameWidth="801" frameHeight="495" />
+<SubTexture name="kepPortrait kepportrait0000" x="0" y="2808" width="825" height="826" frameX="0" frameY="0" frameWidth="825" frameHeight="826" />
+<SubTexture name="kepPortrait textbox0000" x="3389" y="2808" width="1841" height="451" frameX="0" frameY="0" frameWidth="1841" frameHeight="451" />
+</TextureAtlas>

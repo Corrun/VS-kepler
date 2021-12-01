@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Kepler_Transformation_Assets.png">
+<SubTexture name="Kepler trans0000" x="0" y="0" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0001" x="1924" y="0" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0002" x="3848" y="0" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0003" x="5772" y="0" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0004" x="0" y="1084" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0005" x="1924" y="1084" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0006" x="3848" y="1084" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0007" x="5772" y="1084" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0008" x="0" y="2168" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0009" x="1924" y="2168" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0010" x="3848" y="2168" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0011" x="5772" y="2168" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0012" x="0" y="3252" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0013" x="1924" y="3252" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0014" x="3848" y="3252" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0015" x="5772" y="3252" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0016" x="0" y="4336" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0017" x="1924" y="4336" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0018" x="3848" y="4336" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0019" x="5772" y="4336" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0020" x="0" y="5420" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0021" x="1924" y="5420" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0022" x="3848" y="5420" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0023" x="5772" y="5420" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0024" x="0" y="6504" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0025" x="1924" y="6504" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0026" x="3848" y="6504" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0027" x="5772" y="6504" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0028" x="0" y="7588" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0029" x="1924" y="7588" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0030" x="3848" y="7588" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0031" x="5772" y="7588" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0032" x="0" y="8672" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0033" x="1924" y="8672" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0034" x="3848" y="8672" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0035" x="5772" y="8672" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0036" x="0" y="9756" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0037" x="1924" y="9756" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0038" x="3848" y="9756" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0039" x="5772" y="9756" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0040" x="0" y="10840" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0041" x="1924" y="10840" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0042" x="3848" y="10840" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+
+<SubTexture name="Kepler trans0043" x="5772" y="10840" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0044" x="5772" y="10840" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+
+<SubTexture name="Kepler trans0045" x="0" y="11920" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0046" x="0" y="11920" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+
+<SubTexture name="Kepler trans0047" x="1924" y="11920" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0048" x="1924" y="11920" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+
+<SubTexture name="Kepler trans0049" x="3848" y="11920" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0050" x="3848" y="11920" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+
+<SubTexture name="Kepler trans0051" x="5772" y="11920" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0052" x="5772" y="11920" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+
+<SubTexture name="Kepler trans0053" x="0" y="13000" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0054" x="0" y="13000" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+
+<SubTexture name="Kepler trans0055" x="1924" y="13000" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0056" x="1924" y="13000" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+
+<SubTexture name="Kepler trans0057" x="3848" y="13000" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0058" x="3848" y="13000" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+
+<SubTexture name="Kepler trans0059" x="5772" y="13000" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0060" x="5772" y="13000" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+
+<SubTexture name="Kepler trans0061" x="0" y="14080" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0062" x="0" y="14080" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+
+<SubTexture name="Kepler trans0063" x="1924" y="14080" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="Kepler trans0064" x="1924" y="14080" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+</TextureAtlas>
